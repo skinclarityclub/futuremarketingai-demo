@@ -5,6 +5,9 @@ export { Tooltip } from './Tooltip';
 export { Modal } from './Modal';
 export { ProgressIndicator } from './ProgressIndicator';
 export { TabNavigation } from './TabNavigation';
+export { Breadcrumbs } from './Breadcrumbs';
+export { NavigationProgress } from './NavigationProgress';
+export { AppLayout } from './AppLayout';
 
 // Type exports
 export type { default as GlassCardProps } from './GlassCard';
